@@ -1,0 +1,5 @@
+package com.pawan.logger.factory;
+
+public interface Logger {
+
+}

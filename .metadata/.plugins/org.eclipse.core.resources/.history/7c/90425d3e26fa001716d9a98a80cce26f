@@ -1,0 +1,13 @@
+package com.pawan.logger;
+
+import com.pawan.logger.factory.FileLogger;
+import com.pawan.logger.factory.Logger;
+
+public class FactoryMethodDirtyCode {
+	
+	public static void main(String[] args) {
+		Logger log = new FileLogger();
+		log.logMessage("Dirty Code Message");
+	}
+
+}

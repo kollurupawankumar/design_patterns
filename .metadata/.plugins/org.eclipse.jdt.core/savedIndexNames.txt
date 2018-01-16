@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+/home/lenovo/workspace/design_patterns/.metadata/.plugins/org.eclipse.jdt.core
+4122095465.index
+2810343007.index
